@@ -1,0 +1,6 @@
+{
+     "scenesList" : [
+          {"scene" : "Escritorio", "command": "!escena1"},
+          {"scene" : "Escena 2", "command": "!escena2"}
+     ]
+}
